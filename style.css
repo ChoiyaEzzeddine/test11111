@@ -1,0 +1,38 @@
+body {
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color:brown;
+    border-style: dotted;
+    text-align: center;
+}
+.title1{
+    color: blueviolet;
+
+}
+#color1{
+    color: black;
+}
+.style1{
+    margin: 25px;
+    font-size: 20px;
+    text-align: justify;
+}
+.style2{
+    margin:25px;
+    font-size:20px; 
+    text-align:justify;
+}
+#clfacebook{
+    color: blue;
+}
+#clinsta{
+    color:orangered
+}
+a{
+    color: red;
+}
+table, tr, th, td{
+border: solid;
+ }
